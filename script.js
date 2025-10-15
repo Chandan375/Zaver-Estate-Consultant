@@ -1,4 +1,4 @@
-fetch('data/properties.json')
+fetch('properties.json')
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById('property-list');
