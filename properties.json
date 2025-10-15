@@ -1,0 +1,77 @@
+{
+  "listings": [
+    {
+      "title": "Mahindra Vista, Kandivali East",
+      "location": "Near Apex Hospital, Lokhandwala, 400101",
+      "price": "₹1.36Cr – ₹4.61Cr",
+      "area": "433 – 1624 Sq.Ft",
+      "bhk": "1, 2, 3, 4 BHK",
+      "furnishing": "Multiple options",
+      "image": "assets/images/mahindra-vista.jpg"
+    },
+    {
+      "title": "2 BHK in Gokul Residency",
+      "location": "Kandivali East, Mumbai",
+      "price": "₹2.40 Cr",
+      "area": "1348 Sq.Ft",
+      "furnishing": "Unfurnished",
+      "image": "assets/images/gokul-residency.jpg"
+    },
+    {
+      "title": "2 BHK in Gokul Concorde",
+      "location": "Dattani Park Rd, Thakur Village",
+      "price": "₹2.50 Cr",
+      "area": "1140 Sq.Ft",
+      "furnishing": "Fully Furnished",
+      "image": "assets/images/gokul-concorde.jpg"
+    },
+    {
+      "title": "2 BHK in Vasundhara CHSL",
+      "location": "Thakur Village, Kandivali East",
+      "price": "₹2.50 Cr",
+      "area": "760 Sq.Ft",
+      "furnishing": "Fully Furnished",
+      "image": "assets/images/vasundhara-chsl.jpg"
+    },
+    {
+      "title": "2 BHK in SD Corp Siennaa",
+      "location": "Samta Nagar, Kandivali East",
+      "price": "₹2.39 Cr",
+      "area": "864 Sq.Ft",
+      "furnishing": "Semi-Furnished",
+      "image": "assets/images/sd-siennaa.jpg"
+    },
+    {
+      "title": "3 BHK in Oberoi Gardens",
+      "location": "Kandivali East",
+      "price": "₹4.75 Cr",
+      "area": "1295 Sq.Ft",
+      "furnishing": "Fully Furnished",
+      "image": "assets/images/oberoi-gardens.jpg"
+    },
+    {
+      "title": "2 BHK in SD Corp Aubburn",
+      "location": "Opp Thakur College, Kandivali East",
+      "price": "₹2.35 Cr",
+      "area": "920 Sq.Ft",
+      "furnishing": "Villa",
+      "image": "assets/images/sd-aubburn.jpg"
+    },
+    {
+      "title": "2 BHK in Wadhwa TW Gardens",
+      "location": "Thakur Village, near Thakur Cinema",
+      "price": "₹1.74 Cr",
+      "area": "720 Sq.Ft",
+      "furnishing": "Apartment",
+      "image": "assets/images/wadhwa-tw.jpg"
+    },
+    {
+      "title": "2 BHK in Challenger Towers",
+      "location": "Kandivali East",
+      "price": "₹2 Cr",
+      "area": "800 Sq.Ft",
+      "furnishing": "Fully Furnished",
+      "image": "assets/images/challenger-towers.jpg"
+    }
+  ]
+}
